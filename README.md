@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Zekeriya Eroğlu
 
-<!--
-**zekeriyaerogluu/zekeriyaerogluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer. I have a special interest in web technologies, backend services and modern software architectures. I am a continuous learner and developer. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Learning more about: `TypeScript`, `React`, `NodeJs`
+- 💼 Professionally working as a software engineer
+- 💬 Ask me about: `PHP`, `Laravel`, `JavaScript`, `Codeigniter`
+- 📫 Reach me at: [zekeriyaerogluu@gmail.com](mailto:zekeriyaerogluu@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+```ts
+const techStack = [
+  "TypeScript",
+  "JavaScript",
+  "Node.js",
+  "React",
+  "PHP",
+  "WordPress",
+  "Next.js",
+  "NestJS",
+  "PostgreSQL",
+  "Redis",
+  "AWS",
+  "Docker",
+  "Git",
+  "Linux"
+];
+
+![](https://komarev.com/ghpvc/?username=zekeriyaerogluu)
