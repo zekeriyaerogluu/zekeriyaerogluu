@@ -33,4 +33,6 @@ const techStack = [
   "Linux"
 ];
 
+```
+
 ![](https://komarev.com/ghpvc/?username=zekeriyaerogluu)
